@@ -1,2 +1,2 @@
-# wztlaw
-~Current Version:0.05~
+wztlaw
+
